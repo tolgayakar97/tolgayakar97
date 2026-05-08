@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tolgayakar97
-- 👀 I’m interested in iOS development, web development, programming.
-- 🌱 I’m currently learning swift language for iOS development, ASP.NET Core, Entity Framework, SQL, React.JS, Node.JS for fullstack web development.
+- 👨‍💻 I’m passionate about developing scalable and high-performance software solutions, with experience building projects in modern C++ and an interest in software architecture and system design.
 
 <!---
 tolgayakar97/tolgayakar97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
